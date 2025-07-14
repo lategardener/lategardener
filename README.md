@@ -1,5 +1,22 @@
 # 💫 About Me:
-# 👋 Hi, I'm Marc Djole (a.k.a. lategardener)<br><br>🔭 I’m currently working on:  <br>A collection of AI projects including reinforcement learning, NLP, and regression-based data analysis.  <br>Check out my recent work on [morpion_RL](https://github.com/lategardener/morpion_RL) and Paris housing price prediction.<br><br>🌱 I’m currently learning:  <br>Advanced machine learning techniques, model deployment, and scalable AI workflows with tools like Streamlit and Hugging Face.<br><br>👯 I’m looking to collaborate on:  <br>Open-source AI/ML projects, especially those involving real-world datasets, interactive dashboards, or creative applications of reinforcement learning.<br><br>🤔 I’m looking for help with:  <br>Optimizing deep learning models on CPU-only environments and improving performance for small datasets.<br><br>💬 Ask me about:  <br>Regression models, reinforcement learning basics, or how to structure a clean GitHub repo for ML projects.<br><br>📫 How to reach me:  <br>You can reach me on GitHub or [LinkedIn](https://www.linkedin.com/in/your-link/) *(replace with your link)*<br><br>😄 Pronouns:  <br>He/Him<br><br>⚡ Fun fact:  <br>I like to combine logic, language, and creativity — whether it's through building games with AI or exploring linguistic quirks in NLP models.<br>
+👋 Hi, I'm Marc Djole (aka lategardener).
+
+🔭 Currently working on AI projects: reinforcement learning, NLP, and regression analysis.  
+Check out [morpion_RL](https://github.com/lategardener/morpion_RL) and Paris housing price prediction.
+
+🌱 Learning advanced ML techniques, model deployment, and scalable AI workflows (Streamlit, Hugging Face).
+
+👯 Looking to collaborate on open-source AI/ML projects with real-world data or creative RL applications.
+
+🤔 Seeking help optimizing deep learning models on CPU-only setups and handling small datasets.
+
+💬 Ask me about regression models, RL basics, or organizing clean ML GitHub repos.
+
+📫 Reach me on GitHub or [LinkedIn](https://www.linkedin.com/in/your-link/) *(update link)*.
+
+😄 Pronouns: He/Him.
+
+⚡ Fun fact: I combine logic, language, and creativity—building AI games and exploring NLP quirks.
 
 
 ## 🌐 Socials:
