@@ -4,11 +4,9 @@
 🔭 Currently working on AI projects: reinforcement learning, NLP, and regression analysis.  
 Check out [morpion_RL](https://github.com/lategardener/morpion_RL) and Paris housing price prediction.
 
-🌱 Learning advanced ML techniques, model deployment, and scalable AI workflows (Streamlit, Hugging Face).
+🌱 Learning Reinforcement learning, deep learning, and the evolution of large language models (LLMs) with transformer-based architectures.
 
 👯 Looking to collaborate on open-source AI/ML projects with real-world data or creative RL applications.
-
-🤔 Seeking help optimizing deep learning models on CPU-only setups and handling small datasets.
 
 ⚡ Fun fact: I build AI models to make decisions for me—because thinking is exhausting.
 
