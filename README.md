@@ -10,14 +10,7 @@ Check out [morpion_RL](https://github.com/lategardener/morpion_RL) and Paris hou
 
 🤔 Seeking help optimizing deep learning models on CPU-only setups and handling small datasets.
 
-💬 Ask me about regression models, RL basics, or organizing clean ML GitHub repos.
-
-📫 Reach me on GitHub or [LinkedIn](https://www.linkedin.com/in/your-link/) *(update link)*.
-
-😄 Pronouns: He/Him.
-
-⚡ Fun fact: I combine logic, language, and creativity—building AI games and exploring NLP quirks.
-
+⚡ Fun fact: I build AI models to make decisions for me—because thinking is exhausting.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lategardener) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marcloiccedric) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djolemarc@cy-tech.fr) 
@@ -30,8 +23,5 @@ Check out [morpion_RL](https://github.com/lategardener/morpion_RL) and Paris hou
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lategardener&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
