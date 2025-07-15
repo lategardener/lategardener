@@ -4,11 +4,11 @@ I'm a **final-year engineering student** specializing in **computer science**, w
 I'm passionate about solving real-world problems using AI and data-driven approaches.  
 Currently working on projects involving **Python**, **Machine Learning**, and **data analysis**.
 
-> [!NOTE]
->  Feel free to check out my work or reach out — I'm always open to learning and collaboration!
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg1enFmdmhxZnN3Y2dvazI5d290dHAwczI3ZzQzOHpqYnNlOHdobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4ycVAVuJvXRvK0Rap/giphy.gif" width="400"/>
 
+> [!NOTE]
+>  Feel free to check out my work or reach out — I'm always open to learning and collaboration!
 
 
 ## 🌐 Socials:
