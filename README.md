@@ -28,8 +28,8 @@ Feel free to check out my work or reach out — I'm always open to learning and 
 
 ## 📊 GitHub Stats:
 <div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin-right: 20px; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lategardener&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" style="height: 200px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin-right: 20px; height: 200px; width:150px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lategardener&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" style="height: 200px; width:150px;" />
 </div>
 
 <br />
