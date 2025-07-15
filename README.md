@@ -1,11 +1,22 @@
 ### 👋 Hi there!
 
-I'm a **final-year engineering student** specializing in **computer science**, with a strong focus on **artificial intelligence** and **data science**.
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="60%" valign="top" style="padding-right: 20px; padding-right: 20px; border: none;">
+      <p>I'm a <strong>final-year engineering student</strong> specializing in <strong>computer science</strong>, with a strong focus on <strong>artificial intelligence</strong> and <strong>data science</strong>.</p>
 
-I'm passionate about solving real-world problems using AI and data-driven approaches.  
-Currently working on projects involving **Python**, **Machine Learning**, and **data analysis**.
+  <p>I'm passionate about solving real-world problems using AI and data-driven approaches.<br/>
+      Currently working on projects involving <strong>Python</strong>, <strong>Machine Learning</strong>, and <strong>data analysis</strong>.</p>
 
-Feel free to check out my work or reach out — I'm always open to learning and collaboration!
+  <p>Feel free to check out my work or reach out — I'm always open to learning and collaboration!</p>
+  </td>
+    <td width="40%" align="center" valign="top" style="border: none;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg1enFmdmhxZnN3Y2dvazI5d290dHAwczI3ZzQzOHpqYnNlOHdobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4ycVAVuJvXRvK0Rap/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 ## 🌐 Socials:
