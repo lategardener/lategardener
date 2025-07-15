@@ -27,11 +27,11 @@ Feel free to check out my work or reach out — I'm always open to learning and 
 </p>
 
 ## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="height: 300px; width:400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lategardener&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" style="height: 300px; width:400px;" />
+<div align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width:400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lategardener&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" style="width:400px;" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/lategardener/snk/blob/output-svg-only/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
