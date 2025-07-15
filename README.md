@@ -19,6 +19,6 @@ Check out [morpion_RL](https://github.com/lategardener/morpion_RL) and Paris hou
 ![](https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=white&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lategardener&theme=white&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![snake gif](https://github.com/lategardener/lategardener/blob/output/github-contribution-grid-snake.gif)
+![snake gif]([https://github.com/lategardener/skn/blob/github-contribution-grid-snake-dark.svg](https://github.com/lategardener/snk/blob/output-svg-only/github-contribution-grid-snake-dark.svg))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
