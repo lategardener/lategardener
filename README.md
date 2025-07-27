@@ -11,10 +11,10 @@ Currently working on projects involving **Python**, **Machine Learning**, and **
 >  Feel free to check out my work or reach out — I'm always open to learning and collaboration!
 
 
-## 🌐 Socials:
+#### 🌐 Socials:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/marcloiccedric/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/lategardener)  &nbsp; <a href="mailto:djolemarc@cy-tech.fr"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-## 💻 Tech Stack:
+#### 💻 Tech Stack:
 <p align="left">
   <code><img src="https://github.com/github/explore/raw/main/topics/c/c.png" width="40" height="40" alt="C" /></code>
   <code><img src="https://github.com/github/explore/raw/main/topics/java/java.png" width="40" height="40" alt="Java" /></code>
@@ -28,7 +28,7 @@ Currently working on projects involving **Python**, **Machine Learning**, and **
 </p>
 
 
-## 📊 GitHub Stats:
+#### 📊 GitHub Stats:
 <div align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width:400px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lategardener&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" style="width:400px;" />
