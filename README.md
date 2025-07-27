@@ -16,7 +16,7 @@ Currently working on projects involving **Python**, **Machine Learning**, and **
   <a href="https://instagram.com/lategardener" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" alt="Instagram" />
   </a> &nbsp;
-  <a href="https://linkedin.com/in/www.linkedin.com/in/marcloiccedric" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/marcloiccedric/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" alt="LinkedIn" />
   </a> &nbsp;
   <a href="mailto:djolemarc@cy-tech.fr">
