@@ -30,8 +30,8 @@ Currently working on projects involving **Python**, **Machine Learning**, and **
 
 #### 📊 GitHub Stats:
 <div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width:400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lategardener&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" style="width:400px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="height:180px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lategardener&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" style="height:180px;" />
 </div>
 
 <div align="left">
