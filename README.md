@@ -16,15 +16,15 @@ Currently working on projects involving **Python**, **Machine Learning**, and **
 
 ## 💻 Tech Stack:
 <p align="left">
-  <code><img src="https://github.com/github/explore/raw/main/topics/c/c.png" width="50" height="50" alt="C" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/java/java.png" width="50" height="50" alt="Java" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="50" height="50" alt="JavaScript" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="50" height="50" alt="Python" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/numpy/numpy.png" width="50" height="35" alt="NumPy" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="50" height="50" alt="TensorFlow" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/pytorch/pytorch.png" width="50" height="50" alt="PyTorch" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" width="50" height="50" alt="Scikit-learn" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="50" height="50" alt="Git" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/c/c.png" width="40" height="40" alt="C" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/java/java.png" width="40" height="40" alt="Java" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="40" height="40" alt="JavaScript" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="40" height="40" alt="Python" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/numpy/numpy.png" width="40" height="40" alt="NumPy" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" alt="TensorFlow" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/pytorch/pytorch.png" width="40" height="40" alt="PyTorch" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" width="40" height="40" alt="Scikit-learn" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="40" height="40" alt="Git" /></code>
 </p>
 
 
