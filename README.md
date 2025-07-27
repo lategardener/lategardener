@@ -12,20 +12,31 @@ Currently working on projects involving **Python**, **Machine Learning**, and **
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lategardener) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marcloiccedric) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djolemarc@cy-tech.fr) 
+<p align="left">
+  <a href="https://instagram.com/lategardener" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" alt="Instagram" />
+  </a> &nbsp;
+  <a href="https://linkedin.com/in/www.linkedin.com/in/marcloiccedric" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="mailto:djolemarc@cy-tech.fr">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" alt="Email" />
+  </a>
+</p>
 
 ## 💻 Tech Stack:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" height="30" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="90" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="110" alt="scikit-learn" />
+  <code><img src="https://github.com/github/explore/raw/main/topics/c/c.png" width="50" height="50" alt="C" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/java/java.png" width="50" height="50" alt="Java" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="50" height="50" alt="JavaScript" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="50" height="50" alt="Python" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/numpy/numpy.png" width="50" height="35" alt="NumPy" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="50" height="50" alt="TensorFlow" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/pytorch/pytorch.png" width="50" height="50" alt="PyTorch" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" width="50" height="50" alt="Scikit-learn" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="50" height="50" alt="Git" /></code>
 </p>
+
 
 ## 📊 GitHub Stats:
 <div align="left">
