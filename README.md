@@ -12,17 +12,7 @@ Currently working on projects involving **Python**, **Machine Learning**, and **
 
 
 ## 🌐 Socials:
-<p align="left">
-  <a href="https://instagram.com/lategardener" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" alt="Instagram" />
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/marcloiccedric/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="mailto:djolemarc@cy-tech.fr">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" alt="Email" />
-  </a>
-</p>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/marcloiccedric/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/lategardener)  &nbsp; <a href="mailto:djolemarc@cy-tech.fr"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ## 💻 Tech Stack:
 <p align="left">
