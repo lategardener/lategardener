@@ -1,11 +1,11 @@
 ### 👋 Hi there!
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFnNnF0amV5cTl6amZldzl3dHZmMTA1MWx1cmU1Ym44NHNjNnVmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="250" style="padding:"/>
+
 I'm a **final-year engineering student** specializing in **computer science**, with a strong focus on **artificial intelligence** and **data science**.
 
 I'm passionate about solving real-world problems using AI and data-driven approaches.  
 Currently working on projects involving **Python**, **Machine Learning**, and **data analysis**.
 
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFnNnF0amV5cTl6amZldzl3dHZmMTA1MWx1cmU1Ym44NHNjNnVmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="250"/>
 
 > [!NOTE]
 >  Feel free to check out my work or reach out — I'm always open to learning and collaboration!
@@ -13,6 +13,8 @@ Currently working on projects involving **Python**, **Machine Learning**, and **
 
 #### 🌐 Socials:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/marcloiccedric/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://instagram.com/lategardener)  &nbsp; <a href="mailto:djolemarc@cy-tech.fr"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
+
+
 
 #### 💻 Tech Stack:
 <p align="left">
@@ -26,6 +28,8 @@ Currently working on projects involving **Python**, **Machine Learning**, and **
   <code><img src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" width="40" height="40" alt="Scikit-learn" /></code>
   <code><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="40" height="40" alt="Git" /></code>
 </p>
+
+
 
 
 #### 📊 GitHub Stats:
