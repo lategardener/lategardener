@@ -4,7 +4,7 @@
 I'm a **final-year engineering student** specializing in **computer science**, with a strong focus on **artificial intelligence** and **data science**.
 
 I'm passionate about solving real-world problems using AI and data-driven approaches.  
-Currently working on projects involving `Python`, `Machine Learning`, `NLP`, `reinforcement Learning` and `data analysis`.
+Currently working on projects involving `Python`, `Machine Learning`, `NLP`, `Reinforcement Learning` , `Deep learning` and `data analysis`.
 
 
 > [!NOTE]
