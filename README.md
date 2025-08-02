@@ -40,5 +40,5 @@ Currently working on projects involving `Python`, `Machine Learning`, `NLP`,  <b
 </div>
 
 <div align="left">
-  <img src="https://github.com/lategardener/snk/blob/output-svg-only/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/lategardener/snk/blob/output-svg-only/github-contribution-grid-snake-dark.svg" alt="Snake animation"  style="height:175px;"/>
 </div>
