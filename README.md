@@ -13,7 +13,9 @@ Currently working on projects involving `Python`, `Machine Learning`, `NLP`,  <b
 
 
 #### 🌐 Socials:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/marcloiccedric/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://instagram.com/lategardener)  &nbsp; <a href="mailto:djolemarc@cy-tech.fr"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcloiccedric/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://instagram.com/lategardener)
+[![Email](https://img.shields.io/badge/Email-djolemarc@cy--tech.fr-red?logo=gmail&logoColor=white)](mailto:djolemarc@cy-tech.fr)
 
 
 
