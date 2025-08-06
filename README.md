@@ -1,4 +1,6 @@
 ### 👋 Hi there!
+<img src="banner.jpg" alt="Banner" style="width:100%;" />
+
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFnNnF0amV5cTl6amZldzl3dHZmMTA1MWx1cmU1Ym44NHNjNnVmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="250" style="padding:"/>
 
 I'm a **final-year engineering student** specializing in **computer science**, with a strong focus on **artificial intelligence** and **data science**.
