@@ -9,10 +9,6 @@ Currently working on projects involving `Python`, `Machine Learning`, `NLP`, <br
 `Reinforcement Learning`, `Deep learning` and `data analysis`.
 
 
-> [!NOTE]
->  Feel free to check out my work or reach out — I'm always open to learning and collaboration!
-
-
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcloiccedric/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://instagram.com/lategardener)
