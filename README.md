@@ -10,11 +10,9 @@ Currently working on projects involving `Python`, `Machine Learning`, `NLP`,<br>
 
 
 #### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcloiccedric/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://instagram.com/lategardener)
-[![Email](https://img.shields.io/badge/Email-djolemarc@cy--tech.fr-red?logo=gmail&logoColor=white)](mailto:djolemarc@cy-tech.fr)
-
-
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" height="50" />](https://www.linkedin.com/in/marcloiccedric/)
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="50" height="50" />](mailto:djolemarc@cy-tech.fr)
+[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="50" height="50" />](https://instagram.com/lategardener)
 
 
 #### 💻 Tech Stack:
