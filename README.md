@@ -10,22 +10,20 @@ Currently working on projects involving `Python`, `Machine Learning`, `NLP`,<br>
 
 
 #### 🌐 Socials:
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" height="50" />](https://www.linkedin.com/in/marcloiccedric/)
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="50" height="50" />](mailto:djolemarc@cy-tech.fr)
-[<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="50" height="50" />](https://instagram.com/lategardener)
+[<code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="40" height="40" /></code>](https://www.linkedin.com/in/marcloiccedric/)
+[<code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="40" height="40" /></code>](mailto:djolemarc@cy-tech.fr)
+[<code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="40" height="40" /></code>](https://instagram.com/lategardener)
+
 
 
 #### 💻 Tech Stack:
 <p align="left">
-  <code><img src="https://github.com/github/explore/raw/main/topics/c/c.png" width="30" height="30" alt="C" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/java/java.png" width="30" height="30" alt="Java" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="30" height="30" alt="JavaScript" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="30" height="30" alt="Python" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/numpy/numpy.png" width="30" height="30" alt="NumPy" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="30" height="30" alt="TensorFlow" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/pytorch/pytorch.png" width="30" height="30" alt="PyTorch" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" width="30" height="30" alt="Scikit-learn" /></code>
-  <code><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="30" height="30" alt="Git" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="40" height="40" alt="Python" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/numpy/numpy.png" width="40" height="40" alt="NumPy" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" alt="TensorFlow" /></code>
+  <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg" width="40" height="40" alt="PyTorch" /></code>
+  <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="40" height="40" alt="Scikit-learn" /></code>
+  <code><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="40" height="40" alt="Git" /></code>
 </p>
 
 
