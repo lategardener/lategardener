@@ -24,6 +24,8 @@ Currently working on projects involving `Python`, `Machine Learning`, `NLP`,<br>
   <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg" width="40" height="40" alt="PyTorch" /></code>
   <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="40" height="40" alt="Scikit-learn" /></code>
   <code><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="40" height="40" alt="Git" /></code>
+  <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="40" height="40" alt="fastAPI" /></code>
+  <code><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" height="40" alt="Docker" /></code>
 </p>
 
 
