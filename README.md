@@ -33,9 +33,13 @@ Currently working on projects involving `Python`, `Machine Learning`, `NLP`,<br>
 
 #### 📊 GitHub Stats:
 <div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=white&hide_border=true" alt="GitHub Streak" style="height:160px;" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lategardener&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" style="height:160px;" />
+  <!-- GitHub Streak -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=white&hide_border=true" 
+       alt="GitHub Streak" style="height:160px;" />
 
+  <!-- Top Langs via ton instance Vercel -->
+  <img src="https://readmestats-silk.vercel.app/api/top-langs/?username=lategardener&theme=algolia" 
+       alt="Top Languages" style="height:160px;" />
 </div>
 
 <div align="left">
