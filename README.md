@@ -32,11 +32,6 @@ Currently working on projects involving `Python`, `Machine Learning`, `NLP`,<br>
 
 
 #### 📊 GitHub Stats:
-<div align="center">
-  <!-- GitHub Streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lategardener&theme=white&hide_border=true" 
-       alt="GitHub Streak" style="height:160px;" />
-</div>
 <div align="left">
   <img src="https://github.com/lategardener/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="Snake animation"  style="height:175px;"/>
 </div>
